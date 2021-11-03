@@ -10,5 +10,5 @@ I'm Luca, 25 years old and I'm based in Zürich 🇨🇭.
 - ⚙️ Vue, Unity, React, Xamarin, Google Cloud
 - 👁️ SASS, CSS, HTML
 
-## Contacnt
+## Contact
 - [luca@ltescari.ch](mailto:luca@ltescari.ch)
