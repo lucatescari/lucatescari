@@ -11,4 +11,5 @@ I'm Luca, 25 years old and I'm based in Zürich 🇨🇭.
 - 👁️ SASS, CSS, HTML
 
 ## Contact
-- [luca@ltescari.ch](mailto:luca@ltescari.ch)
+- ✉️ [luca@ltescari.ch](mailto:luca@ltescari.ch)
+- Discord [Lucat#0001](https://discordapp.com/users/lucat#0001)
