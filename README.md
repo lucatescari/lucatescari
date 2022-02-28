@@ -1,6 +1,6 @@
 ## Hi 👋!
 
-I'm Luca (he / him), 25 years old and I'm based in Zürich 🇨🇭.
+I'm Luca (he / him), 26 years old and I'm based in Zürich 🇨🇭.
 
 - Currently working as a frontend software developer at [Bitforge AG](https://www.bitforge.ch)
 
