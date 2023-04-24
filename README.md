@@ -1,17 +1,17 @@
-## Hi 👋!
-
-I'm Luca (he / him), 27 years old and I'm based in Zürich 🇨🇭.
-
-- Currently working as a software developer at [Bitforge AG](https://www.bitforge.ch)
+# Hi, I'm Luca! 👋
+I'm a software developer based in Zürich, Switzerland 🇨🇭. Currently, I work at [Bitforge AG](https://www.bitforge.ch).
 
 ## Skills
+I specialize in TypeScript, JavaScript, and Vue and have experience with various technologies and frameworks, including:
+- Ionic
+- Flutter
+- Google Cloud
+- C#
+- Unity
+- React
+- Xamarin
 
-- 👨‍💻 TypeScript, JavaScript, C#, Python
-- ⚙️ Vue, Unity, React, Xamarin, Google Cloud
-- 👁️ SASS, CSS, HTML
-
-<figure><embed src="https://wakatime.com/share/@lucatescari/b3afc80f-16ae-4dd2-be16-b9a437a4b4d1.svg"></embed></figure>
+I'm also proficient in front-end development, including SASS, CSS, and HTML.
 
 ## Contact
-- ✉️ [luca@ltescari.ch](mailto:luca@tescari.io)
-- Discord [Lucat#0001](https://discordapp.com/users/lucat#0001)
+Feel free to reach out to me at [luca@ltescari.ch](mailto:luca@ltescari.ch) or on Discord at [Lucat#0001](https://discordapp.com/users/lucat#0001).
