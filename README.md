@@ -2,7 +2,7 @@
 
 I'm Luca (he / him), 27 years old and I'm based in Zürich 🇨🇭.
 
-- Currently working as a frontend software developer at [Bitforge AG](https://www.bitforge.ch)
+- Currently working as a software developer at [Bitforge AG](https://www.bitforge.ch)
 
 ## Skills
 
@@ -13,5 +13,5 @@ I'm Luca (he / him), 27 years old and I'm based in Zürich 🇨🇭.
 <figure><embed src="https://wakatime.com/share/@lucatescari/b3afc80f-16ae-4dd2-be16-b9a437a4b4d1.svg"></embed></figure>
 
 ## Contact
-- ✉️ [luca@ltescari.ch](mailto:luca@ltescari.ch)
+- ✉️ [luca@ltescari.ch](mailto:luca@tescari.io)
 - Discord [Lucat#0001](https://discordapp.com/users/lucat#0001)
