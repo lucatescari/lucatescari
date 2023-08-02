@@ -14,4 +14,4 @@ I specialize in TypeScript, JavaScript, and Vue and have experience with various
 I'm also proficient in front-end development, including SASS, CSS, and HTML.
 
 ## Contact
-Feel free to reach out to me at [luca@tescari.io](mailto:luca@tescari.io) or on Discord at [Lucat#0001](https://discordapp.com/users/lucat#0001).
+Feel free to reach out to me at [luca@tescari.io](mailto:luca@tescari.io).
