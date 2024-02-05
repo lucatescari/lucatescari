@@ -2,14 +2,12 @@
 I'm a software developer based in Zürich, Switzerland 🇨🇭. Currently, I work at [Bitforge AG](https://www.bitforge.ch).
 
 ## Skills
-I specialize in TypeScript, JavaScript, and Vue and have experience with various technologies and frameworks, including:
+I specialize in TypeScript, JavaScript, Angular and Vue and have experience with various technologies and frameworks, including:
 - Ionic
 - Flutter
 - Google Cloud
 - C#
 - Unity
-- React
-- Xamarin
 
 I'm also proficient in front-end development, including SASS, CSS, and HTML.
 
